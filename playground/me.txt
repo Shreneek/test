@@ -1,5 +1,0 @@
-{{#user}}
-Name: Shreneek Nahar
-Skills: HTML, CSS, JavaScript, ReactJs
-Email: shreneeknhr99@gmail.com
-{{/user}}
